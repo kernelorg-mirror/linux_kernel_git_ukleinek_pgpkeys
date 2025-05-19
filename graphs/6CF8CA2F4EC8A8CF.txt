@@ -12,7 +12,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  6CF8CA2F4EC8A8CF  Hannes Reinecke (SuSE Labs) <hare@suse.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
    3  6CF8CA2F4EC8A8CF  Hannes Reinecke (SuSE Labs) <hare@suse.de>
 

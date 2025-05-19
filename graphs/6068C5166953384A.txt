@@ -9,3 +9,9 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  6415C4F166A3B93E  Dave Jiang (Work) <dave.jiang@intel.com>
    4  6068C5166953384A  Dave Jiang <dave.jiang@intel.com>
 
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  6835953070C992B0  David Christopher Hansen <dave@sr71.net>
+   3  7AFA61BEA3B84DFF  Vishal Verma <vishal@stellar.sh>
+   4  6068C5166953384A  Dave Jiang <dave.jiang@intel.com>
+

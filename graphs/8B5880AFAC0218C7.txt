@@ -9,8 +9,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  8B5880AFAC0218C7  Geert Uytterhoeven (Signing key) <geert@linux-m68k.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
+   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
+   2  4110B337B0195D73  Linus Walleij (Linaro) <linus.walleij@linaro.org>
    3  4E2415A9A1BD2F80  Greg Ungerer <gerg@snapgear.com>
    4  8B5880AFAC0218C7  Geert Uytterhoeven (Signing key) <geert@linux-m68k.org>
 

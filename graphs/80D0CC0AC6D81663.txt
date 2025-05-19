@@ -4,14 +4,14 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  80D0CC0AC6D81663  Georgi Djakov <djakov@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
-   3  2105F2B2A751ECE2  Amit Kucheria (Linaro) <amit.kucheria@linaro.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  410DE44FDEE1B495  Johan Hovold <jhovold@gmail.com>
+   3  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
    4  80D0CC0AC6D81663  Georgi Djakov <djakov@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  39CFD4755FE2D5B4  Sudeep Holla (ARM) <sudeep.holla@arm.com>
-   3  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
+   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
+   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
+   3  2105F2B2A751ECE2  Amit Kucheria (Linaro) <amit.kucheria@linaro.org>
    4  80D0CC0AC6D81663  Georgi Djakov <djakov@kernel.org>
 

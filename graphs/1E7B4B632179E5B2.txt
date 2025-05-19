@@ -9,7 +9,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
    2  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
    3  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
 
