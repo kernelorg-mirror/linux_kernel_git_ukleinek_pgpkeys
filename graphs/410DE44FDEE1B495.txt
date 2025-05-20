@@ -1,0 +1,20 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  410DE44FDEE1B495  Johan Hovold <jhovold@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
+   2  4110B337B0195D73  Linus Walleij (Linaro) <linus.walleij@linaro.org>
+   3  410DE44FDEE1B495  Johan Hovold <jhovold@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  C93A8F10916BCA39  Jesse Sayer Barnes <jbarnes@virtuousgeek.org>
+   2  7CD1E6192FF9F435  Alex Elder <elder@linux.com>
+   3  410DE44FDEE1B495  Johan Hovold <jhovold@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+   3  4D7670687820B094  Martyn Welch (Private) <martyn@welchs.me.uk>
+   4  410DE44FDEE1B495  Johan Hovold <jhovold@gmail.com>
+
